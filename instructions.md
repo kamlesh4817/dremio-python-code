@@ -1,6 +1,8 @@
 # https://github.com/dremio-hub
 # https://github.com/AlexMercedCoder?tab=repositories
 # https://github.com/developer-advocacy-dremio/quick-guides-from-dremio/blob/main/README.md
+# https://www.linkedin.com/pulse/clustering-vs-partitioning-your-apache-iceberg-tables-alex-merced-oedde/
+
 
 # pip upgrade - python.exe -m pip install --upgrade pip
 # create venv - python -m venv .venv
