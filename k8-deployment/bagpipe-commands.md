@@ -1,3 +1,4 @@
+# make sure Spark is installed and you can get to Spark from Terminal
 # created on 11/7/2024 for 180 days
 # set environment variable
 $DREMIO_PAT = "ZjZkl+24SYKcMCoUbadHCy+LT/VYE21vuIezRSPm9HB+UQLWF+0k/hSJnzThLw==" 
